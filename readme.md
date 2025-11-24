@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I used to binge-watch sitcoms during the pandemic**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1VtJWml488_mKxd4C7qiUQHnaWA1MFalu/view?usp=sharing](https://drive.google.com/file/d/1VtJWml488_mKxd4C7qiUQHnaWA1MFalu/view?usp=sharing)**
+- 📄 Know about my experiences: **<a href="https://drive.google.com/file/d/1VtJWml488_mKxd4C7qiUQHnaWA1MFalu/view?usp=sharing" target="_blank">View my Résumé / Experience</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
