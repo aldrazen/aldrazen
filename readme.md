@@ -1,6 +1,5 @@
-# Hi 👋, I'm Al Drazen Sagarino
-
-### A passionate frontend developer from Davao City, Philippines
+<h1 align="center">Hi 👋, I'm Al Drazen Sagarino</h1>
+<h3 align="center">A passionate frontend developer from Davao City, Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrazen&label=Profile%20views&color=0e75b6&style=flat" alt="aldrazen" /> </p>
 
